@@ -14,4 +14,5 @@ public enum DemoSingleton04 {
         System.out.println(demo1.hashCode() == demo2.hashCode() ? "ture" : "false");
     }
 
+
 }
