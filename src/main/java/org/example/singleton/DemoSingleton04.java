@@ -13,4 +13,5 @@ public enum DemoSingleton04 {
         DemoSingleton04 demo2 = DemoSingleton04.INSTANCE;
         System.out.println(demo1.hashCode() == demo2.hashCode() ? "ture" : "false");
     }
+
 }
